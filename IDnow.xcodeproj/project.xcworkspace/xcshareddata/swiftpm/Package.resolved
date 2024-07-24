@@ -1,0 +1,15 @@
+{
+  "originHash" : "2c77a0cce5f58531fdf03105f6094d9ab3419146bdc41ff4dbb86d8e48724922",
+  "pins" : [
+    {
+      "identity" : "de.idnow.ios.sdk.spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/idnow/de.idnow.ios.sdk.spm",
+      "state" : {
+        "revision" : "4f0bedffa5324545e6a87fe4b07581a04f3199b3",
+        "version" : "5.9.1"
+      }
+    }
+  ],
+  "version" : 3
+}
